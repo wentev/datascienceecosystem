@@ -1,2 +1,2 @@
 # datascienceecosystem
-course era assignment
+coursera assignment
